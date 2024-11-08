@@ -303,7 +303,7 @@ nav.show .icon-close {
 
 #home .image::before {
   content: '';
-  height: 50%;
+  height: 100%;
   width: 70%;
   background: #ffa724;
   position: absolute;
